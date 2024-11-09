@@ -142,6 +142,15 @@ section h6 {
 	margin-bottom: 5px;
 	font-size: 15px;
 }
+section h5 {
+	text-align: left;
+	padding:3px 0;
+	color: #fffffe	;
+	margin-bottom: 5px;
+	font-size: 15px;
+	margin-left: 15px;
+	
+}
 
 .about {
 	background-color: #0f0e17;
